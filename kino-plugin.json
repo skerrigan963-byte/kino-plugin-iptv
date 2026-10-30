@@ -2,7 +2,7 @@
   "id": "mi-iptv-personal",
   "name": "Mi IPTV Personal",
   "version": "1.0.0",
-  "description": "Plugin de IPTV personalizado con buscador",
+  "description": "Plugin de IPTV personal para Kino",
   "entry": "plugin.js",
   "apiVersion": 7,
   "capabilities": ["search", "resolve"],
